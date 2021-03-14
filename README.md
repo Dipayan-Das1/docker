@@ -1,2 +1,2 @@
 # docker
-Docker images
+Docker images creation and docker compose
